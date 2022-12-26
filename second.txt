@@ -1,0 +1,8 @@
+A version control system is a software that tracks changes to a file or set of files over time so
+ that you can recall specific versions later. It also allows you to work together with other programmers.
+The version control system is a collection of software tools that help a team to manage changes in a source code. It uses a special kind of database to keep track of every modification to the code.
+
+Developers can compare earlier versions of the code with an older version to fix the mistakes.
+
+
+One of Git's great features is that it is distributed. Distributed means that instead of switching the project to another machine, we can create a "clone" of the entire repository. Also, instead of just having one central repository that you send changes to, every user has their own repository that contains the entire commit history of the project. We do not need to connect to the remote repository; the change is just stored on our local repository. If necessary, we can push these changes to a remote repository.
